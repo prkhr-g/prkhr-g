@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prakhar Gupta
+- 👋 Hi, I’m Prakhar Gupta visit: guptaprakhar.tech
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me @mehappy10101010@gmail.com
